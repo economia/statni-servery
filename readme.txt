@@ -12,4 +12,6 @@ Nízká čísla u systému datových schránek jsou totiž způsobena právě pr
 
 
 Dlouhodobé sledování
-Že studie má mít pokračování je podle autorů logické - jen tak lze vytvořit tlak na zlepšení situace. Plánují navíc rozšířit množinu sledovaných webů, a zavést zkoumání obsahu. Soušasná čísla ukazují pouze na to zda server nemá výpadek. Jestli server ale skutečně zobrazuje co má (a nikoliv např. "omlouváme se, došlo k chybě") je sledovatelné podstatně obtížněji. I o to se však autoři hodlají v dalších verzích pokusit.  
+Že studie má mít pokračování je podle autorů logické - jen tak lze vytvořit tlak na zlepšení situace. Plánují navíc rozšířit množinu sledovaných webů, a zavést zkoumání obsahu. Soušasná čísla ukazují pouze na to zda server nemá výpadek. Jestli server ale skutečně zobrazuje co má (a nikoliv např. "omlouváme se, došlo k chybě") je sledovatelné podstatně obtížněji. I o to se však autoři hodlají v dalších verzích pokusit. 
+
+navrhuji do třetího odstavce za slova “nedochází-li k ní často” vrazit něco následujícího znění: Nutno dodat, že odstávky jsou v drtivé většině případů plánovány na víkendy, kdy státní správa nedoručuje a rovněž zde obvykle nekončí a nezačínají zákonné lhůty. Jinak řečeno, odeslání či doručení lze provést po odstávce bez zásahu do práv a zájmů firem či osob. Nefunkčností systému tedy postihuje “jen” uživatelský komfort.
