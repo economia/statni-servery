@@ -46,3 +46,5 @@ result  <- data.frame(serverId=serverId, serverName=serverName)
 result$vypadky  <- vsechnyVypadky
 
 result  <- toJSON(result, pretty=TRUE)
+
+write(result, "vypadky.json")
