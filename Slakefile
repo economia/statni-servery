@@ -13,6 +13,7 @@ externalStyles =
     ...
 
 externalData =
+    vypadky: "#__dirname/data/servers.json"
     style: "#__dirname/www/screen.css"
 
 preferScripts = <[ postInit.js _loadData.js ../data.js init.js _loadExternal.js]>
