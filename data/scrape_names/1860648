@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1250" />
+	<script type="text/javascript" src="../jquery.js"></script>
+	<script type="text/javascript" src="../jquery.prettyPhoto.js"></script>
+ 	<!--script type="text/javascript">var $j = jQuery.noConflict();</script-->
+  
+<link rel="stylesheet" href="../prettyPhoto.css" type="text/css" media="screen" />
+<script type="text/javascript" charset="utf-8">
+	$(document).ready(function(){
+		$("a[rel^='prettyPhoto']").prettyPhoto({
+			animationSpeed: 'normal', /* fast/slow/normal */
+			opacity: 0.80, /* Value between 0 and 1 */
+			showTitle: true, /* true/false */
+			allow_resize: false,
+		});
+	});
+</script>
+    <!--link rel="stylesheet" type="text/css" href="http://www.monitoring-serveru.cz/styly.css" /-->
+<link rel="stylesheet" type="text/css" href="http://www.monitoring-serveru.cz/styly_old.css" />    <title>Dostupnost stránky Karlovarský kraj [Monitoring-serverů.cz]</title>
+
+    <link rel="alternate" href="http://data.monitoring-serveru.cz/1860648/rss" type="application/rss+xml" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.monitoring-serveru.cz/favicon.ico" />
+    <meta name="description" content="Monitoring serverů, měření dostupnosti webserverů, monitorování webů" />
+  
+  </head>
+  <body class="admin">
+    <p class="hidden"><a href="#center">Skočit na obsah</a> | <a href="#left">Skočit na menu</a></p>
+   
+
+   
+    <div id="top" class="lang-cs">
+    
+         <p id="flags"><img src="http://img.monitoring-serveru.cz/www/flags/cs.gif" alt="cs" /> <a href="http://statistiky.monitoring-serverov.sk/1860648" title="slovensky"><img src="http://img.monitoring-serveru.cz/www/flags/sk.gif" alt="sk" /></a> <a href="http://statistics.servers-monitoring.net/1860648" title="anglicky"><img src="http://img.monitoring-serveru.cz/www/flags/en.gif" alt="en" /></a> <a href="http://statistiken.ueberwachung-server.de/1860648" title="německy"><img src="http://img.monitoring-serveru.cz/www/flags/de.gif" alt="de" /></a> </p>
+    
+    
+      <h1><a href="http://www.monitoring-serveru.cz"><span>Monitoring-serverů.cz</span></a></h1>
+
+      <form action="/" method="post" id="loginform">
+        <fieldset>
+        
+            <legend>Přihlášení</legend>
+      
+          <p><label for="uziv_jmeno">Uživ. jméno:</label> <input type="text" name="uziv_jmeno" id="uziv_jmeno" /></p>
+          <p><label for="heslo">Heslo:</label> <input type="password" name="heslo" id="heslo" /></p>
+          <input type="hidden" name="chci_se_prihlasit" value="ano" />
+	  <p id="trvale"><input type="checkbox" name="trvale_prihlaseni" id="trvale_prihlaseni" /> <label for="trvale_prihlaseni">Trvalé přihlášení</label></p>
+          <input type="submit" value="Přihlásit" class="btn_prihlasit" />
+        </fieldset>
+      </form>
+      <form id="registrace" action="/registrace" method="post">
+	  
+      <fieldset>
+        <legend>Registrace</legend>
+     <div class="center">
+         <a href="/registrace"> 
+        <input type="submit" value="Zřídit účet" class="zridit_ucet_btn" />
+        </a>
+     </div>
+      </fieldset>
+	  
+      </form>
+
+    
+    </div>
+    <hr class="hidden" />
+    <ul id="menu">
+<li><a href="http://monitoring-serveru.cz/">Úvod</a></li><li><a href="http://monitoring-serveru.cz/sluzby">Popis</a></li><li><a href="http://monitoring-serveru.cz/faq">Časté otázky</a></li><li><a href="http://monitoring-serveru.cz/cenik">Ceník</a></li><li><a href="http://monitoring-serveru.cz/hledani-stranek">Hledání</a></li><li><a href="http://monitoring-serveru.cz/registrace">Registrace</a></li><li><a href="http://www.monitoring-serveru.cz/administrace/">Přihlásit</a></li><li><a href="http://monitoring-serveru.cz/o-nas">O nás</a></li><li><a href="http://forum.monitoring-serveru.cz">Fórum</a></li>    </ul>
+    <div class="clear">      
+    </div>
+<div id="left" style="padding:0;">    <div style="min-height:400px; width: 220px">
+	
+      <div class="center" style="padding:0px 0 10px 0;text-align:center;">
+   <span style="font-size:11px;">Reklama</span><br />
+            <a href="http://www.superhosting.cz?utm_medium=display&utm_source=monitoring-serveru&utm_campaign=uvodka-right"><img src="http://img.monitoring-serveru.cz/www/superhosting_brand_skycraper_160x400.jpg" alt="SuperHosting.cz" /></a>
+</div></div></div>
+    <div id="center">
+<h2>Dostupnost stránky Karlovarský kraj</h2><ul class="aktualnikategorie"><li>Statistiky</ul><table class="mala horizontalni table width-auto uprostred"><tr class="head"><th colspan="2">Informace o měření</th></tr><tr class="odd"><th style="width: 130px;">Jméno</th><td>Karlovarský kraj</td></tr><tr class="odd"><th>URL adresa</th><td><a href="http://www.kr-karlovarsky.cz/">http://www.kr-karlovarsky.cz/</a></td></tr><tr><th>Typ měření</th><td>HTTP (head)</td></tr><tr class="odd"><th>Interval měření</th><td>10 minut</td></tr><tr><th>Timeout</th><td>15 sekund</td></tr><tr class="odd"><th>Měřeno od</th><td>25.9.2013 18:50:34</td></tr><tr><th>Naposledy změřeno</th><td>8.4.2014 14:53:41</td></tr><tr class="odd"><th>Doba měření</th><td>194 dní 20 hodin 7 minut 49 sekund</td></tr><tr class="head"><th colspan="2">Celková dostupnost</th></tr><tr class="odd"><th>Počet měření</th><td>13 764</td></tr><tr><th>Z toho výpadků</th><td>102</td></tr><tr class="odd"><th>Absolutní dostupnost</th><td>99,259%</td></tr><tr><th>Běžná dostupnost</th><td>99,301%</td></tr><tr class="head"><th colspan="2">Výstupy</th></tr><tr class="odd"><th>Výstupy</th><td><a href="http://statistiky.monitoring-serveru.cz/1860648">HTML</a> | <a href="http://data.monitoring-serveru.cz/1860648/rss">RSS</a> | <a href="http://data.monitoring-serveru.cz/1860648/vystup.xml">XML</a> | <a href="http://data.monitoring-serveru.cz/1860648/vystup.js">JavaScript</a> | <a href="http://data.monitoring-serveru.cz/1860648/vystup.txt">Běžná dostupnost (TXT)</a></td></tr></table><h3>Graf dostupnosti</h3><p style="text-align: center;"><a href="#" onclick="document.getElementById('graf_dostupnosti2').style.display='none'; document.getElementById('graf_dostupnosti3').style.display='none'; document.getElementById('graf_dostupnosti1').style.display='block'; return false;">Standardní</a> &nbsp; <a href="#" onclick="document.getElementById('graf_dostupnosti2').src='http://data.monitoring-serveru.cz/1860648/graf2.png'; document.getElementById('graf_dostupnosti1').style.display='none'; document.getElementById('graf_dostupnosti3').style.display='none'; document.getElementById('graf_dostupnosti2').style.display='block'; return false;">Vývoj dostupnosti</a> &nbsp; <a href="#" onclick="document.getElementById('graf_dostupnosti3').src='http://data.monitoring-serveru.cz/1860648/2014-03-09-30/graf.png'; document.getElementById('graf_dostupnosti1').style.display='none'; document.getElementById('graf_dostupnosti2').style.display='none'; document.getElementById('graf_dostupnosti3').style.display='block'; return false;">Posledních 30 dní</a> <img id="graf_dostupnosti1" src="http://data.monitoring-serveru.cz/1860648/graf.png" width="700" height="300" alt="Graf dostupnosti" class="graf" style="margin: 15px 0;" /><img id="graf_dostupnosti2" src="" width="700" height="300" alt="Graf dostupnosti" class="graf" style="margin: 15px 0;" style="display: none;" /><img id="graf_dostupnosti3" src="" width="700" height="300" alt="Graf dostupnosti" class="graf" style="margin: 15px 0;" style="display: none;" /></p><script type="text/javascript">/* <![CDATA[ */
+  document.getElementById('graf_dostupnosti2').style.display='none';
+  document.getElementById('graf_dostupnosti3').style.display='none';
+  /* ]]> */
+ </script>
+<table class="vertikalni table width-auto"><tr class="head"><th>Období</th><th># měření</th><th># výpadků</th><th>Dostupnost</th></tr><tr class="odd"><th><a href="http://statistiky.monitoring-serveru.cz/1860648/2014-01">Leden 2014</a></th><td>4 176</td><td>74</td><td>98,228%</td></tr><tr><th><a href="http://statistiky.monitoring-serveru.cz/1860648/2014-02">Únor 2014</a></th><td>4 032</td><td>1</td><td>99,975%</td></tr><tr class="odd"><th><a href="http://statistiky.monitoring-serveru.cz/1860648/2014-03">Březen 2014</a></th><td>4 458</td><td>1</td><td>99,978%</td></tr><tr><th><a href="http://statistiky.monitoring-serveru.cz/1860648/2014-04">Duben 2014</a></th><td>1 098</td><td>26</td><td>97,632%</td></tr></table><h3>Posledních 50 výpadků</h3><table class="vertikalni table width-auto"><tr class="head"><th>Čas výpadku</th><th>Typ</th><th>Délka výpadku</th><th>Info</th></tr><tr class="odd"><td><strong>6.4.2014</strong> 07:03:41 - 07:13:41</td><td>nedostupné</td><td>10 minut<td><a href="http://statistiky.monitoring-serveru.cz/1860648/vypadky/1396760621">&gt;&gt;</a></td>Interní chyba: Zákazník není přihlášený!<br />Tato chyba je interní a prakticky by neměla nikdy nastat. Proto byla zapsána do logu a bude co nejdříve opravena. Pokud vám teď brání v další činnosti, prosím neváhejte nás kontaktovat.
