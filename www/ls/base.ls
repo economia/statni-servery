@@ -16,12 +16,18 @@ y = d3.scale.linear!
 svg = d3.select document.createElement \svg
 currentDate = new Date firstDate.getTime!
 weekCounter = -1
+lastMonth = null
+monthChanges = []
 while currentDate <= lastDate
     weekDay = (currentDate.getDay! - 1) %% 7
     weekCounter++ if weekDay == 0
+    if currentDate.getMonth! != lastMonth
+        if lastMonth != null
+            monthChanges.push [(x weekCounter), (y weekDay)]
+        lastMonth = currentDate.getMonth!
     rect = svg.append "rect"
         ..attr \fill \#f9f9f9
-        ..attr \stroke if weekDay > 4 then \#a2cdec else \#ddd
+        ..attr \stroke if weekDay > 4 then \#bbb else \#ddd
         ..attr \x x weekCounter
         ..attr \y y weekDay
         ..attr \height fieldSize
@@ -29,9 +35,13 @@ while currentDate <= lastDate
         ..attr \data-date "#{currentDate.toISOString!substr 0, 10}"
 
     currentDate.setTime currentDate.getTime! + 86400 * 1e3
+svg.selectAll \path .data monthChanges .enter!append \path
+    ..attr \d ([x, y]) -> "M#x #{maxHeight+fieldSize} V #y H #{x + fieldSize} V 0"
+svg.append \path .attr \d "M 0 1 H #maxWidth"
+svg.append \path .attr \d "M 0 #{maxHeight+fieldSize} H #{maxWidth - fieldSize}"
 svgContent = svg.html!
 list = container.append \ul
-ig.data.vypadky.length = 1
+# ig.data.vypadky.length = 1
 color = d3.scale.linear!
     ..domain [0 1 5 10 50 100 999 ]
     ..range <[#ffffff  #ffffb2 #fecc5c #fd8d3c #f03b20 #bd0026 #bd0026]>
