@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statistiky monitor="http://www.monitoring-serveru.cz">
+ <den datum="8.4.2014" isodate="2014-04-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>180</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.4.2014" isodate="2014-04-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.4.2014" isodate="2014-04-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.4.2014" isodate="2014-04-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.4.2014" isodate="2014-04-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.4.2014" isodate="2014-04-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.4.2014" isodate="2014-04-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.4.2014" isodate="2014-04-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="31.3.2014" isodate="2014-03-31">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.3.2014" isodate="2014-03-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>276</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.3.2014" isodate="2014-03-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.3.2014" isodate="2014-03-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.3.2014" isodate="2014-03-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.3.2014" isodate="2014-03-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.3.2014" isodate="2014-03-25">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="24.3.2014" isodate="2014-03-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.3.2014" isodate="2014-03-23">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="22.3.2014" isodate="2014-03-22">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="21.3.2014" isodate="2014-03-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.3.2014" isodate="2014-03-20">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="19.3.2014" isodate="2014-03-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.3.2014" isodate="2014-03-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.3.2014" isodate="2014-03-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.3.2014" isodate="2014-03-16">
+  <dostupnost>62.5%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>108</vypadku>
+ </den>
+ <den datum="15.3.2014" isodate="2014-03-15">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>138</vypadku>
+ </den>
+ <den datum="14.3.2014" isodate="2014-03-14">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="13.3.2014" isodate="2014-03-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.3.2014" isodate="2014-03-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.3.2014" isodate="2014-03-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.3.2014" isodate="2014-03-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.3.2014" isodate="2014-03-09">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="8.3.2014" isodate="2014-03-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.3.2014" isodate="2014-03-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.3.2014" isodate="2014-03-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.3.2014" isodate="2014-03-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.3.2014" isodate="2014-03-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.3.2014" isodate="2014-03-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.3.2014" isodate="2014-03-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.3.2014" isodate="2014-03-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.2.2014" isodate="2014-02-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.2.2014" isodate="2014-02-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.2.2014" isodate="2014-02-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.2.2014" isodate="2014-02-25">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="24.2.2014" isodate="2014-02-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.2.2014" isodate="2014-02-23">
+  <dostupnost>65.625%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>99</vypadku>
+ </den>
+ <den datum="22.2.2014" isodate="2014-02-22">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>138</vypadku>
+ </den>
+ <den datum="21.2.2014" isodate="2014-02-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.2.2014" isodate="2014-02-20">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="19.2.2014" isodate="2014-02-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.2.2014" isodate="2014-02-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.2.2014" isodate="2014-02-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.2.2014" isodate="2014-02-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.2.2014" isodate="2014-02-15">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="14.2.2014" isodate="2014-02-14">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="13.2.2014" isodate="2014-02-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.2.2014" isodate="2014-02-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.2.2014" isodate="2014-02-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.2.2014" isodate="2014-02-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.2.2014" isodate="2014-02-09">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="8.2.2014" isodate="2014-02-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.2.2014" isodate="2014-02-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.2.2014" isodate="2014-02-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.2.2014" isodate="2014-02-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.2.2014" isodate="2014-02-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.2.2014" isodate="2014-02-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.2.2014" isodate="2014-02-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.2.2014" isodate="2014-02-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="31.1.2014" isodate="2014-01-31">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.1.2014" isodate="2014-01-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.1.2014" isodate="2014-01-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.1.2014" isodate="2014-01-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.1.2014" isodate="2014-01-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.1.2014" isodate="2014-01-26">
+  <dostupnost>62.5%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>108</vypadku>
+ </den>
+ <den datum="25.1.2014" isodate="2014-01-25">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>138</vypadku>
+ </den>
+ <den datum="24.1.2014" isodate="2014-01-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.1.2014" isodate="2014-01-23">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="22.1.2014" isodate="2014-01-22">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="21.1.2014" isodate="2014-01-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.1.2014" isodate="2014-01-20">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="19.1.2014" isodate="2014-01-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.1.2014" isodate="2014-01-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.1.2014" isodate="2014-01-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.1.2014" isodate="2014-01-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.1.2014" isodate="2014-01-15">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="14.1.2014" isodate="2014-01-14">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="13.1.2014" isodate="2014-01-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.1.2014" isodate="2014-01-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.1.2014" isodate="2014-01-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.1.2014" isodate="2014-01-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.1.2014" isodate="2014-01-09">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="8.1.2014" isodate="2014-01-08">
+  <dostupnost>94.444%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>16</vypadku>
+ </den>
+ <den datum="7.1.2014" isodate="2014-01-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.1.2014" isodate="2014-01-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.1.2014" isodate="2014-01-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.1.2014" isodate="2014-01-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.1.2014" isodate="2014-01-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.1.2014" isodate="2014-01-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.1.2014" isodate="2014-01-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="31.12.2013" isodate="2013-12-31">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.12.2013" isodate="2013-12-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.12.2013" isodate="2013-12-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.12.2013" isodate="2013-12-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.12.2013" isodate="2013-12-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.12.2013" isodate="2013-12-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.12.2013" isodate="2013-12-25">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="24.12.2013" isodate="2013-12-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.12.2013" isodate="2013-12-23">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="22.12.2013" isodate="2013-12-22">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="21.12.2013" isodate="2013-12-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.12.2013" isodate="2013-12-20">
+  <dostupnost>96.528%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>10</vypadku>
+ </den>
+ <den datum="19.12.2013" isodate="2013-12-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.12.2013" isodate="2013-12-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.12.2013" isodate="2013-12-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.12.2013" isodate="2013-12-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.12.2013" isodate="2013-12-15">
+  <dostupnost>62.847%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>107</vypadku>
+ </den>
+ <den datum="14.12.2013" isodate="2013-12-14">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>138</vypadku>
+ </den>
+ <den datum="13.12.2013" isodate="2013-12-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.12.2013" isodate="2013-12-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.12.2013" isodate="2013-12-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.12.2013" isodate="2013-12-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.12.2013" isodate="2013-12-09">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="8.12.2013" isodate="2013-12-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.12.2013" isodate="2013-12-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.12.2013" isodate="2013-12-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.12.2013" isodate="2013-12-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.12.2013" isodate="2013-12-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.12.2013" isodate="2013-12-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.12.2013" isodate="2013-12-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.12.2013" isodate="2013-12-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.11.2013" isodate="2013-11-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.11.2013" isodate="2013-11-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.11.2013" isodate="2013-11-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.11.2013" isodate="2013-11-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.11.2013" isodate="2013-11-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.11.2013" isodate="2013-11-25">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="24.11.2013" isodate="2013-11-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.11.2013" isodate="2013-11-23">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="22.11.2013" isodate="2013-11-22">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="21.11.2013" isodate="2013-11-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.11.2013" isodate="2013-11-20">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="19.11.2013" isodate="2013-11-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.11.2013" isodate="2013-11-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.11.2013" isodate="2013-11-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.11.2013" isodate="2013-11-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.11.2013" isodate="2013-11-15">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="14.11.2013" isodate="2013-11-14">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="13.11.2013" isodate="2013-11-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.11.2013" isodate="2013-11-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.11.2013" isodate="2013-11-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.11.2013" isodate="2013-11-10">
+  <dostupnost>62.5%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>108</vypadku>
+ </den>
+ <den datum="9.11.2013" isodate="2013-11-09">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>138</vypadku>
+ </den>
+ <den datum="8.11.2013" isodate="2013-11-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.11.2013" isodate="2013-11-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.11.2013" isodate="2013-11-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.11.2013" isodate="2013-11-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.11.2013" isodate="2013-11-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.11.2013" isodate="2013-11-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.11.2013" isodate="2013-11-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.11.2013" isodate="2013-11-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="31.10.2013" isodate="2013-10-31">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.10.2013" isodate="2013-10-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.10.2013" isodate="2013-10-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.10.2013" isodate="2013-10-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.10.2013" isodate="2013-10-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.10.2013" isodate="2013-10-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.10.2013" isodate="2013-10-25">
+  <dostupnost>96.875%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>9</vypadku>
+ </den>
+ <den datum="24.10.2013" isodate="2013-10-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.10.2013" isodate="2013-10-23">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="22.10.2013" isodate="2013-10-22">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="21.10.2013" isodate="2013-10-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.10.2013" isodate="2013-10-20">
+  <dostupnost>62.5%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>108</vypadku>
+ </den>
+ <den datum="19.10.2013" isodate="2013-10-19">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>138</vypadku>
+ </den>
+ <den datum="18.10.2013" isodate="2013-10-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.10.2013" isodate="2013-10-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.10.2013" isodate="2013-10-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.10.2013" isodate="2013-10-15">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="14.10.2013" isodate="2013-10-14">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="13.10.2013" isodate="2013-10-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.10.2013" isodate="2013-10-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.10.2013" isodate="2013-10-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.10.2013" isodate="2013-10-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.10.2013" isodate="2013-10-09">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="8.10.2013" isodate="2013-10-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.10.2013" isodate="2013-10-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.10.2013" isodate="2013-10-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.10.2013" isodate="2013-10-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.10.2013" isodate="2013-10-04">
+  <dostupnost>98.958%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>3</vypadku>
+ </den>
+ <den datum="3.10.2013" isodate="2013-10-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.10.2013" isodate="2013-10-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.10.2013" isodate="2013-10-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.9.2013" isodate="2013-09-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.9.2013" isodate="2013-09-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.9.2013" isodate="2013-09-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.9.2013" isodate="2013-09-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.9.2013" isodate="2013-09-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>288</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.9.2013" isodate="2013-09-25">
+  <dostupnost>100%</dostupnost>
+  <mereni>176</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="24.9.2013" isodate="2013-09-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.9.2013" isodate="2013-09-23">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="22.9.2013" isodate="2013-09-22">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="21.9.2013" isodate="2013-09-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.9.2013" isodate="2013-09-20">
+  <dostupnost>95.833%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>6</vypadku>
+ </den>
+ <den datum="19.9.2013" isodate="2013-09-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.9.2013" isodate="2013-09-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.9.2013" isodate="2013-09-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.9.2013" isodate="2013-09-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.9.2013" isodate="2013-09-15">
+  <dostupnost>62.5%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>54</vypadku>
+ </den>
+ <den datum="14.9.2013" isodate="2013-09-14">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>69</vypadku>
+ </den>
+ <den datum="13.9.2013" isodate="2013-09-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.9.2013" isodate="2013-09-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.9.2013" isodate="2013-09-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.9.2013" isodate="2013-09-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.9.2013" isodate="2013-09-09">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="8.9.2013" isodate="2013-09-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.9.2013" isodate="2013-09-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.9.2013" isodate="2013-09-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.9.2013" isodate="2013-09-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.9.2013" isodate="2013-09-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.9.2013" isodate="2013-09-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.9.2013" isodate="2013-09-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.9.2013" isodate="2013-09-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="31.8.2013" isodate="2013-08-31">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.8.2013" isodate="2013-08-30">
+  <dostupnost>97.902%</dostupnost>
+  <mereni>143</mereni>
+  <vypadku>3</vypadku>
+ </den>
+ <den datum="29.8.2013" isodate="2013-08-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.8.2013" isodate="2013-08-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.8.2013" isodate="2013-08-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.8.2013" isodate="2013-08-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.8.2013" isodate="2013-08-25">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="24.8.2013" isodate="2013-08-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.8.2013" isodate="2013-08-23">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="22.8.2013" isodate="2013-08-22">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="21.8.2013" isodate="2013-08-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.8.2013" isodate="2013-08-20">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="19.8.2013" isodate="2013-08-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.8.2013" isodate="2013-08-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.8.2013" isodate="2013-08-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.8.2013" isodate="2013-08-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.8.2013" isodate="2013-08-15">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="14.8.2013" isodate="2013-08-14">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="13.8.2013" isodate="2013-08-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.8.2013" isodate="2013-08-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.8.2013" isodate="2013-08-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.8.2013" isodate="2013-08-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.8.2013" isodate="2013-08-09">
+  <dostupnost>96.528%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>5</vypadku>
+ </den>
+ <den datum="8.8.2013" isodate="2013-08-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.8.2013" isodate="2013-08-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.8.2013" isodate="2013-08-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.8.2013" isodate="2013-08-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.8.2013" isodate="2013-08-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.8.2013" isodate="2013-08-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.8.2013" isodate="2013-08-02">
+  <dostupnost>96.528%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>5</vypadku>
+ </den>
+ <den datum="1.8.2013" isodate="2013-08-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="31.7.2013" isodate="2013-07-31">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.7.2013" isodate="2013-07-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.7.2013" isodate="2013-07-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.7.2013" isodate="2013-07-28">
+  <dostupnost>62.5%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>54</vypadku>
+ </den>
+ <den datum="27.7.2013" isodate="2013-07-27">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>69</vypadku>
+ </den>
+ <den datum="26.7.2013" isodate="2013-07-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.7.2013" isodate="2013-07-25">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="24.7.2013" isodate="2013-07-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.7.2013" isodate="2013-07-23">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="22.7.2013" isodate="2013-07-22">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="21.7.2013" isodate="2013-07-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.7.2013" isodate="2013-07-20">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="19.7.2013" isodate="2013-07-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.7.2013" isodate="2013-07-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.7.2013" isodate="2013-07-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.7.2013" isodate="2013-07-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.7.2013" isodate="2013-07-15">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="14.7.2013" isodate="2013-07-14">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="13.7.2013" isodate="2013-07-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.7.2013" isodate="2013-07-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.7.2013" isodate="2013-07-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.7.2013" isodate="2013-07-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.7.2013" isodate="2013-07-09">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="8.7.2013" isodate="2013-07-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.7.2013" isodate="2013-07-07">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="6.7.2013" isodate="2013-07-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.7.2013" isodate="2013-07-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.7.2013" isodate="2013-07-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.7.2013" isodate="2013-07-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.7.2013" isodate="2013-07-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.7.2013" isodate="2013-07-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="30.6.2013" isodate="2013-06-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.6.2013" isodate="2013-06-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.6.2013" isodate="2013-06-28">
+  <dostupnost>96.528%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>5</vypadku>
+ </den>
+ <den datum="27.6.2013" isodate="2013-06-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="26.6.2013" isodate="2013-06-26">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="25.6.2013" isodate="2013-06-25">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="24.6.2013" isodate="2013-06-24">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="23.6.2013" isodate="2013-06-23">
+  <dostupnost>50.694%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>71</vypadku>
+ </den>
+ <den datum="22.6.2013" isodate="2013-06-22">
+  <dostupnost>52.083%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>69</vypadku>
+ </den>
+ <den datum="21.6.2013" isodate="2013-06-21">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="20.6.2013" isodate="2013-06-20">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="19.6.2013" isodate="2013-06-19">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="18.6.2013" isodate="2013-06-18">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="17.6.2013" isodate="2013-06-17">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="16.6.2013" isodate="2013-06-16">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="15.6.2013" isodate="2013-06-15">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="14.6.2013" isodate="2013-06-14">
+  <dostupnost>97.222%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>4</vypadku>
+ </den>
+ <den datum="13.6.2013" isodate="2013-06-13">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="12.6.2013" isodate="2013-06-12">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="11.6.2013" isodate="2013-06-11">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="10.6.2013" isodate="2013-06-10">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="9.6.2013" isodate="2013-06-09">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="8.6.2013" isodate="2013-06-08">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="7.6.2013" isodate="2013-06-07">
+  <dostupnost>96.528%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>5</vypadku>
+ </den>
+ <den datum="6.6.2013" isodate="2013-06-06">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="5.6.2013" isodate="2013-06-05">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="4.6.2013" isodate="2013-06-04">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="3.6.2013" isodate="2013-06-03">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="2.6.2013" isodate="2013-06-02">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="1.6.2013" isodate="2013-06-01">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="31.5.2013" isodate="2013-05-31">
+  <dostupnost>96.528%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>5</vypadku>
+ </den>
+ <den datum="30.5.2013" isodate="2013-05-30">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="29.5.2013" isodate="2013-05-29">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="28.5.2013" isodate="2013-05-28">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+ <den datum="27.5.2013" isodate="2013-05-27">
+  <dostupnost>100%</dostupnost>
+  <mereni>144</mereni>
+  <vypadku>0</vypadku>
+ </den>
+
+ <server>www.mojedatovaschranka.cz/</server>
+</statistiky>
