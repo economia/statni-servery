@@ -23,7 +23,7 @@ while currentDate <= lastDate
     weekCounter++ if weekDay == 0
     if currentDate.getMonth! != lastMonth
         if lastMonth != null
-            monthChanges.push [(x weekCounter), (y weekDay)]
+            monthChanges.push [(x weekCounter), (y weekDay), currentDate.getMonth!]
         lastMonth = currentDate.getMonth!
     rect = svg.append "rect"
         ..attr \fill \#f9f9f9
@@ -61,4 +61,13 @@ list.selectAll \li .data ig.data.vypadky .enter!.append \li
             | 0 < vypadky < 5 => "výpadky"
             | otherwise => "výpadků"
             rect.setAttribute \data-tooltip tooltip
+
+months = <[leden únor březen duben květen červen červenec srpen září říjen listopad prosinec]>
+monthLengths = [5 4 5 4 4 5 4 4 5 0]
+monthMargins = [0 1 1 1 1 1 1 1 1 1]
+list.select "li:first-child" .selectAll \span.month .data monthChanges .enter!append \span
+    ..attr \class \month
+    ..html ([x, y, index]) -> months[index]
+    ..style \left ([x, y], i) -> "#{x + monthMargins[i] * fieldSize}px"
+    ..style \width (d, i) -> "#{monthLengths[i] * fieldSize}px"
 
