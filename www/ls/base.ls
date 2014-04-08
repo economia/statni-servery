@@ -55,11 +55,12 @@ list.selectAll \li .data ig.data.vypadky .enter!.append \li
             if vypadky
                 rect.setAttribute \fill color d.vypadky[date]
             dateObj = new Date date
-            tooltip = "#{dateObj.getDate!}. #{dateObj.getMonth! + 1}. #{dateObj.getFullYear!}: #vypadky "
+            tooltip = "#{dateObj.getDate!}. #{dateObj.getMonth! + 1}. #{dateObj.getFullYear!}: "
             tooltip += switch
-            | vypadky == 1 => "výpadek"
-            | 0 < vypadky < 5 => "výpadky"
-            | otherwise => "výpadků"
+            | vypadky == 0 => "žádný výpadek"
+            | vypadky == 1 => "1 výpadek"
+            | vypadky < 5 => "#vypadky výpadky"
+            | otherwise => "#vypadky výpadků"
             rect.setAttribute \data-tooltip tooltip
 
 months = <[leden únor březen duben květen červen červenec srpen září říjen listopad prosinec]>
