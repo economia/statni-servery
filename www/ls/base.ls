@@ -63,6 +63,13 @@ list.selectAll \li .data ig.data.vypadky .enter!.append \li
             | otherwise => "#vypadky výpadků"
             rect.setAttribute \data-tooltip tooltip
 
+list.select "li:first-child" .selectAll \span.day
+    .data <[Po Út St Čt Pá So Ne]>
+    .enter!append \span
+        ..attr \class \day
+        ..html -> it
+        ..style \top (d, i) -> "#{y i}px"
+
 months = <[leden únor březen duben květen červen červenec srpen září říjen listopad prosinec]>
 monthLengths = [5 4 5 4 4 5 4 4 5 0]
 monthMargins = [0 1 1 1 1 1 1 1 1 1]
@@ -71,4 +78,3 @@ list.select "li:first-child" .selectAll \span.month .data monthChanges .enter!ap
     ..html ([x, y, index]) -> months[index]
     ..style \left ([x, y], i) -> "#{x + monthMargins[i] * fieldSize}px"
     ..style \width (d, i) -> "#{monthLengths[i] * fieldSize}px"
-
