@@ -25,7 +25,7 @@ re = new RegExp "<td>(.*?)</td>"
             vypadkyTotal += vypadky
     server.dostupnost = (100 - vypadkyTotal / mereniTotal * 100).toFixed 2
     server.firstDate = datum
-    console.log server
+    # console.log server
     cb!
-
+servers .= sort (a, b) -> (parseFloat a.dostupnost) - (parseFloat b.dostupnost)
 <~ fs.writeFile "#__dirname/../data/servers.json", JSON.stringify servers
