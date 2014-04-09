@@ -41,12 +41,14 @@ svg.append \path .attr \d "M 0 1 H #maxWidth"
 svg.append \path .attr \d "M 0 #{maxHeight+fieldSize} H #{maxWidth - fieldSize}"
 svgContent = svg.html!
 list = container.append \ul
-# ig.data.vypadky.length = 1
+# ig.data.vypadky.length = 2
+for vypadek in ig.data.vypadky
+    vypadek.firstDate = new Date vypadek.firstDate
 color = d3.scale.linear!
     ..domain [0 1 5 10 50 100 999 ]
     ..range <[#ffffff  #ffffb2 #fecc5c #fd8d3c #f03b20 #bd0026 #bd0026]>
 list.selectAll \li .data ig.data.vypadky .enter!.append \li
-    ..append \h2 .html (.name)
+    ..append \h2 .html -> "#{it.name} - dostupnost #{it.dostupnost}%"
     ..append \svg .html svgContent
     ..each (d) ->
         for rect in @querySelectorAll "rect"
@@ -55,8 +57,11 @@ list.selectAll \li .data ig.data.vypadky .enter!.append \li
             if vypadky
                 rect.setAttribute \fill color d.vypadky[date]
             dateObj = new Date date
+            if dateObj < d.firstDate
+                rect.setAttribute \class \prior
             tooltip = "#{dateObj.getDate!}. #{dateObj.getMonth! + 1}. #{dateObj.getFullYear!}: "
             tooltip += switch
+            | dateObj < d.firstDate => "neměřeno"
             | vypadky == 0 => "žádný výpadek"
             | vypadky == 1 => "1 výpadek"
             | vypadky < 5 => "#vypadky výpadky"

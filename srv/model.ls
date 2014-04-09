@@ -13,11 +13,18 @@ re = new RegExp "<td>(.*?)</td>"
     server.vypadky = {}
     (err, xml) <~ fs.readFile "#__dirname/../data/scrape_xml/#{server.id}"
     (err, d) <~ xml2js.parseString xml
+    vypadkyTotal = 0
+    mereniTotal = 0
     for den in d.statistiky.den
         datum = den.$.isodate
         vypadky = den.vypadku.0 |> parseInt _, 10
+        mereni = den.mereni.0 |> parseInt _, 10
+        mereniTotal += mereni
         if vypadky > 0
             server.vypadky[datum] = vypadky
+            vypadkyTotal += vypadky
+    server.dostupnost = (100 - vypadkyTotal / mereniTotal * 100).toFixed 2
+    server.firstDate = datum
     console.log server
     cb!
 
