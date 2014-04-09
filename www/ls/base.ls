@@ -63,9 +63,11 @@ list.selectAll \li .data ig.data.vypadky .enter!.append \li
             tooltip += switch
             | dateObj < d.firstDate => "neměřeno"
             | vypadky == 0 => "žádný výpadek"
-            | vypadky == 1 => "1 výpadek"
-            | vypadky < 5 => "#vypadky výpadky"
-            | otherwise => "#vypadky výpadků"
+            | vypadky == 1 => "1 výpadek (cca 5 minut nedostupnost)"
+            | vypadky < 5 => "#vypadky výpadky (cca #{vypadky * 5} minut nedostupnost)"
+            | vypadky <= 24 => "#vypadky výpadků (cca #{vypadky * 5} minut nedostupnost)"
+            | vypadky < 54 => "#vypadky výpadků (cca #{Math.round vypadky / 12} hodiny nedostupnost)"
+            | otherwise => "#vypadky výpadků (cca #{Math.round vypadky / 12} hodin nedostupnost)"
             rect.setAttribute \data-tooltip tooltip
 
 list.select "li:first-child" .selectAll \span.day
