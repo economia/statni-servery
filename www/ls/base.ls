@@ -3,7 +3,7 @@ container = d3.select ig.containers.base
 firstDate = new Date "2013-06-10 12:00"
 lastDate = new Date "2014-04-08 12:00"
 weekCount = 44
-fieldSize = 924 / weekCount
+fieldSize = 660 / weekCount
 maxWidth = fieldSize * weekCount
 maxHeight = fieldSize * 6
 x = d3.scale.linear!
@@ -48,7 +48,7 @@ color = d3.scale.linear!
     ..domain [0 1 5 10 50 100 999 ]
     ..range <[#ffffff  #ffffb2 #fecc5c #fd8d3c #f03b20 #bd0026 #bd0026]>
 list.selectAll \li .data ig.data.vypadky .enter!.append \li
-    ..append \h2 .html -> "#{it.name} - dostupnost #{it.dostupnost}%"
+    ..append \h2 .html -> "#{it.name} &ndash; #{it.dostupnost}%"
     ..append \svg .html svgContent
     ..each (d) ->
         for rect in @querySelectorAll "rect"
