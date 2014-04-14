@@ -1,7 +1,9 @@
 new Tooltip!watchElements!
 container = d3.select ig.containers.base
-firstDate = new Date "2013-06-10 12:00"
-lastDate = new Date "2014-04-08 12:00"
+firstDate = new Date
+    ..setTime 1370865600000 # "2013-06-10 12:00"
+lastDate = new Date
+    ..setTime 1396958400000 # "2014-04-08 12:00"
 weekCount = 44
 fieldSize = 660 / weekCount
 maxWidth = fieldSize * weekCount
@@ -12,12 +14,13 @@ x = d3.scale.linear!
 y = d3.scale.linear!
     ..domain [0 6]
     ..range [0 maxHeight]
-
-svg = d3.select document.createElement \svg
-currentDate = new Date firstDate.getTime!
-weekCounter = -1
-lastMonth = null
+svg = container.append \svg
+    ..attr \width 704
+    ..attr \height 105
+    ..attr \id \svgParent
 monthChanges = []
+weekCounter = -1
+currentDate = new Date firstDate.getTime!
 while currentDate <= lastDate
     weekDay = (currentDate.getDay! - 1) %% 7
     weekCounter++ if weekDay == 0
@@ -25,21 +28,12 @@ while currentDate <= lastDate
         if lastMonth != null
             monthChanges.push [(x weekCounter), (y weekDay), currentDate.getMonth!]
         lastMonth = currentDate.getMonth!
-    rect = svg.append "rect"
-        ..attr \fill \#f9f9f9
-        ..attr \stroke if weekDay > 4 then \#bbb else \#ddd
-        ..attr \x x weekCounter
-        ..attr \y y weekDay
-        ..attr \height fieldSize
-        ..attr \width fieldSize
-        ..attr \data-date "#{currentDate.toISOString!substr 0, 10}"
-
     currentDate.setTime currentDate.getTime! + 86400 * 1e3
 svg.selectAll \path .data monthChanges .enter!append \path
     ..attr \d ([x, y]) -> "M#x #{maxHeight+fieldSize} V #y H #{x + fieldSize} V 0"
 svg.append \path .attr \d "M 0 1 H #maxWidth"
 svg.append \path .attr \d "M 0 #{maxHeight+fieldSize} H #{maxWidth - fieldSize}"
-svgContent = svg.html!
+
 list = container.append \ul
 # ig.data.vypadky.length = 2
 for vypadek in ig.data.vypadky
@@ -48,27 +42,51 @@ color = d3.scale.linear!
     ..domain [0 1 5 10 50 100 999 ]
     ..range <[#ffffff  #ffffb2 #fecc5c #fd8d3c #f03b20 #bd0026 #bd0026]>
 list.selectAll \li .data ig.data.vypadky .enter!.append \li
-    ..append \h2 .html -> "#{it.name} &ndash; #{it.dostupnost}%"
-    ..append \svg .html svgContent
-    ..each (d) ->
-        for rect in @querySelectorAll "rect"
-            date = rect.getAttribute \data-date
-            vypadky = d.vypadky[date] || 0
-            if vypadky
-                rect.setAttribute \fill color d.vypadky[date]
-            dateObj = new Date date
-            if dateObj < d.firstDate
-                rect.setAttribute \class \prior
-            tooltip = "#{dateObj.getDate!}. #{dateObj.getMonth! + 1}. #{dateObj.getFullYear!}: "
-            tooltip += switch
-            | dateObj < d.firstDate => "neměřeno"
-            | vypadky == 0 => "žádný výpadek"
-            | vypadky == 1 => "1 výpadek (cca 5 minut nedostupnost)"
-            | vypadky < 5 => "#vypadky výpadky (cca #{vypadky * 5} minut nedostupnost)"
-            | vypadky <= 24 => "#vypadky výpadků (cca #{vypadky * 5} minut nedostupnost)"
-            | vypadky < 54 => "#vypadky výpadků (cca #{Math.round vypadky / 12} hodiny nedostupnost)"
-            | otherwise => "#vypadky výpadků (cca #{Math.round vypadky / 12} hodin nedostupnost)"
-            rect.setAttribute \data-tooltip tooltip
+    ..append \h2 .append \a
+        ..attr \href -> "http://statistiky.monitoring-serveru.cz/#{it.id}"
+        ..attr \target \_blank
+        ..html -> "#{it.name} &ndash; #{it.dostupnost}%"
+    ..append \svg
+        ..attr \width 704
+        ..attr \height 105
+        ..each (d) ->
+            svg = d3.select @
+            currentDate = new Date firstDate.getTime!
+            weekCounter = -1
+            while currentDate <= lastDate
+                weekDay = (currentDate.getDay! - 1) %% 7
+                weekCounter++ if weekDay == 0
+                dateStr = currentDate.toISOString!substr 0, 10
+                vypadky = d.vypadky[dateStr] || 0
+
+                tooltip = "#{currentDate.getDate!}. #{currentDate.getMonth! + 1}. #{currentDate.getFullYear!}: "
+                tooltip += switch
+                | currentDate < d.firstDate => "neměřeno"
+                | vypadky == 1 => "1 výpadek (cca 5 minut nedostupnost)"
+                | vypadky < 5 => "#vypadky výpadky (cca #{vypadky * 5} minut nedostupnost)"
+                | vypadky <= 24 => "#vypadky výpadků (cca #{vypadky * 5} minut nedostupnost)"
+                | vypadky < 54 => "#vypadky výpadků (cca #{Math.round vypadky / 12} hodiny nedostupnost)"
+                | otherwise => "#vypadky výpadků (cca #{Math.round vypadky / 12} hodin nedostupnost)"
+                fill =
+                    | currentDate < d.firstDate => \#f3f3f3
+                    | vypadky == 0 => \#f9f9f9
+                    | otherwise => color vypadky
+                stroke =
+                    | currentDate < d.firstDate => \#f3f3f3
+                    | weekDay > 4 => \#bbb
+                    | otherwise => \#ddd
+                rect = svg.append "rect"
+                    ..attr \fill fill
+                    ..attr \stroke stroke
+                    ..attr \x x weekCounter
+                    ..attr \y y weekDay
+                    ..attr \height fieldSize
+                    ..attr \width fieldSize
+                    ..attr \data-tooltip tooltip
+                currentDate.setTime currentDate.getTime! + 86400 * 1e3
+
+        ..append \use .attr \xlink:href \#svgParent
+
 
 list.select "li:first-child" .selectAll \span.day
     .data <[Po Út St Čt Pá So Ne]>
